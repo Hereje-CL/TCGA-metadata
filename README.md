@@ -1,5 +1,5 @@
 # TCGA metadata
-Filtered TCGA metadata with all the necessary IDs for downstream analyses
+Tables of filtered TCGA metadata with all the necessary IDs for downstream analyses.
 
 When working with TCGA datasets, in most cases we have to spend time to find all identifiers related to the same sample or sequence. 
 Unfortunately, this task is not easy, because the metadata documents that can be downloaded from the GDC portal are not complete, and do not correlate the identifiers from one table to the other. 
