@@ -1,9 +1,9 @@
 # TCGA metadata
 <p align="justify">
-  In cancer research and bioinformatics, correlating The Cancer Genome Atlas (TCGA) IDs with metadata is crucial for extracting meaningful insights from genomic data. TCGA provides a vast repository of genomic information, including gene expression, mutation data, and clinical information from various cancer types. Each sample in TCGA is assigned multiple IDs, which serve as key identifiers. However, the raw data alone may not provide a comprehensive understanding of the underlying biological and clinical characteristics. This is where metadata comes into play.
+
+  In cancer research and bioinformatics, correlating The Cancer Genome Atlas [(TCGA)](https://www.cancer.gov/ccg/research/genome-sequencing/tcga) IDs with metadata is crucial for extracting meaningful insights from genomic data. TCGA provides a vast repository of genomic information, including gene expression, mutation data, and clinical information from various cancer types. Each sample in TCGA is assigned multiple IDs, which serve as key identifiers. However, the raw data alone may not provide a comprehensive understanding of the underlying biological and clinical characteristics. This is where metadata comes into play.
 
 TCGA metadata includes essential clinical information such as patient demographics, tumor stage, treatment history, and survival outcomes. Correlating TCGA IDs with the metadata allows researchers to link the biological data with relevant clinical details.
-
 
 When working with TCGA datasets, in most cases we have to spend time to find all identifiers related to the same sample or sequence. 
 Unfortunately, this task is not easy, because the metadata documents that can be downloaded from the GDC portal are not complete, and do not correlate the identifiers from one table to the other. 
